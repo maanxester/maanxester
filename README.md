@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Matheus Nunes</h1>
-<h3 align="center">Python Enthusiast, tech lover, gamer, lover of books on stoicism and stuff like that.</h3>
+<h1 align="center">Hi 🇧🇷, I'm Matheus Nunes</h1>
+<h3 align="center">Python Enthusiast, Cibersecurity Enthusiast, tech lover, gamer, lover of books on stoicism and stuff like that.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maanxester&label=Profile%20views&color=0e75b6&style=flat" alt="maanxester" /> </p>
 
