@@ -1,11 +1,15 @@
-<h1 align="center">Wagwan, I'm Matheus Nunes 👨🏻‍💻</h1>
+<p align="center">
+  <a href="https://www.imagensanimadas.com/cat-morcegos-196.htm"><img src="https://www.imagensanimadas.com/data/media/196/morcego-imagem-animada-0070.gif" border="0" alt="morcego-imagem-animada-0070" /></a>
+</p>
+
+<h1 align="center">Wagwan, I'm Matheus Nunes 👨🏻‍💻🦇</h1>
 <h3 align="center">Python Enthusiast, CiberSecurity Enthusiast, tech lover, gamer, lover of books on stoicism and stuff like that.</h3>
 
  ```python
 def information():
     contacts = {
-        'Linkedin': 'linkedin.com/in/matheusnunes777',
-        'Email': 'nunesmatheus61@gmail.com'
+        💼 'Linkedin': 'linkedin.com/in/matheusnunes777',
+        🦇 'Email': 'nunesmatheus61@gmail.com'
     }
     return contacts
 ```
@@ -17,8 +21,6 @@ def information():
 - 🔭 I’m currently working on **DjangoApp**
 
 - 🌱 I’m currently learning **Python, Machine Learning, Data Visualization, Deep Learning**
-
-- 📫 How to reach me **nunesmatheus61@gmail.com**
 
 - 😈 **I lied to you, i don't have Netflix. Take off your shoes, we're going to crack WPA Handshakes.**
 
