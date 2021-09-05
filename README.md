@@ -1,6 +1,15 @@
 <h1 align="center">Wagwan, I'm Matheus Nunes 👨🏻‍💻</h1>
 <h3 align="center">Python Enthusiast, CiberSecurity Enthusiast, tech lover, gamer, lover of books on stoicism and stuff like that.</h3>
 
+ ```python
+def information():
+    contacts = {
+        'Linkedin': 'linkedin.com/in/matheusnunes777',
+        'Email': 'nunesmatheus61@gmail.com'
+    }
+    return contacts
+```
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maanxester&label=Profile%20views&color=0e75b6&style=flat" alt="maanxester" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maanxester" alt="maanxester" /></a> </p>
