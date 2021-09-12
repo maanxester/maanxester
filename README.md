@@ -16,7 +16,7 @@ def information():
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maanxester&label=Profile%20views&color=0e75b6&style=flat" alt="maanxester" /> </p>
 
-- 🔭 I’m currently working on **DjangoApp**
+- 🔭 I’m currently working on **DjangoApp**, **FlaskApp** and **webapi-golang**
 
 - 🌱 I’m currently learning **Python, Go, Machine Learning, Data Visualization, Deep Learning**
 
