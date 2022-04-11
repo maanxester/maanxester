@@ -2,7 +2,7 @@
 <a href="https://www.imagensanimadas.com/cat-icones-1269.htm"><img src="https://www.imagensanimadas.com/data/media/1269/icone-imagem-animada-0873.gif" border="0" alt="icone-imagem-animada-0873" /></a>
 </p>
 
-<h1 align="center">Wagwan, I'm Matheus Nunes 👨🏻‍💻🦇</h1>
+<h1 align="center">Wagwan, I'm Matheus Nunes 🍇</h1>
 <h3 align="center">Python Enthusiast, CiberSecurity Enthusiast, tech lover, gamer, IAM boy, lover of books on stoicism and stuff like that.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maanxester&label=Profile%20views&color=0e75b6&style=flat" alt="maanxester" /> </p>
