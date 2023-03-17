@@ -10,7 +10,6 @@
 ```python
 def information():
     contacts = {
-        💼 'Linkedin': 'linkedin.com/in/matheusnunes777',
         🦇 'Email': 'nunesmatheus61@gmail.com'
     }
     return contacts
