@@ -15,7 +15,7 @@ def information():
     return contacts
 ```
 
-- 🌱 I’m currently learning **Java, Go, Python, Cibersecurity and IAM (Sailpoint and CA Broadcom)**
+- 🌱 I’m currently learning **Java, Go, Python, Cibersecurity and IGA (Sailpoint)**
 
 - 😈 **I lied to you, i don't have Netflix. Take off your shoes, we're going to crack WPA Handshakes.**
 
